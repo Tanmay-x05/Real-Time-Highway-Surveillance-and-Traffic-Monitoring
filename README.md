@@ -1,5 +1,6 @@
 <img width="742" height="828" alt="Screenshot 2026-01-08 at 13 22 20" src="https://github.com/user-attachments/assets/fcf68f16-3f2e-4bcf-a8b3-19bbf9faf3a2" />
-<img width="742" height="828" alt="Screenshot 2026-01-08 at 13 22 20" src="https://github.com/user-attachments/assets/97bce671-7040-4aad-9827-388e6e577360" />
+<img width="742" height="828" alt="Screenshot 2026-01-08 at 13 22 20" src="https://github.com/user-attachments/assets/47e86f00-d5e1-4717-9a44-6e8ff3476965" />
+
 
 
 This project provides a robust computer vision–based solution for highway traffic analysis. It integrates the state-of-the-art YOLOv8 object detection model with a custom Euclidean distance–based tracking algorithm to accurately detect, track, and estimate the speed of vehicles from surveillance video footage.
